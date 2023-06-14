@@ -1,0 +1,303 @@
+ _________  ___  ___  _______           ________  ___       ________  ________  _______   ________          ___       __   ________  ________  ___       ________     
+|\___   ___\\  \|\  \|\  ___ \         |\   ____\|\  \     |\   __  \|\   ____\|\  ___ \ |\   ___ \        |\  \     |\  \|\   __  \|\   __  \|\  \     |\   ___ \    
+\|___ \  \_\ \  \\\  \ \   __/|        \ \  \___|\ \  \    \ \  \|\  \ \  \___|\ \   __/|\ \  \_|\ \       \ \  \    \ \  \ \  \|\  \ \  \|\  \ \  \    \ \  \_|\ \   
+     \ \  \ \ \   __  \ \  \_|/__       \ \  \    \ \  \    \ \  \\\  \ \_____  \ \  \_|/_\ \  \ \\ \       \ \  \  __\ \  \ \  \\\  \ \   _  _\ \  \    \ \  \ \\ \  
+      \ \  \ \ \  \ \  \ \  \_|\ \       \ \  \____\ \  \____\ \  \\\  \|____|\  \ \  \_|\ \ \  \_\\ \       \ \  \|\__\_\  \ \  \\\  \ \  \\  \\ \  \____\ \  \_\\ \ 
+       \ \__\ \ \__\ \__\ \_______\       \ \_______\ \_______\ \_______\____\_\  \ \_______\ \_______\       \ \____________\ \_______\ \__\\ _\\ \_______\ \_______\
+        \|__|  \|__|\|__|\|_______|        \|_______|\|_______|\|_______|\_________\|_______|\|_______|        \|____________|\|_______|\|__|\|__|\|_______|\|_______|
+                                                                        \|_________|                                                                                  
+                                                                                                                                                                      
+                                                                                                                                                                      
+
+
+
+The closed world is a RPG played by text. In this world, players assume fantasy personas in order to explore the world, defeat monsters, and become heroes... or villains.
+The Closed World is a constanty shifting realm. Each time a new game is started, the world takes on a new form, rife with new people, adventures, and challenges. At tehe start of each 
+game, the details of the world are defined by the Game master, or GM for short. This player takes on the role of storyteller and referee, making sure that the game runs smoothly.
+
+
+
+
+========================================================================================================================================================================================
+Player Characters
+========================================================================================================================================================================================
+
+Creating a character:
+ 
+Stats:
+The first step to playing in the Closed World is to create an avatar to represent your character. These avatars have a variety of stats and special abilities. Below, you can learn the 
+function of each stat your character has.
+
+
+ - Weapon Skill: Used to determine if an attack using a weapon hits.
+ - Magic Skill: Used to determine if an attack using magic hits.
+ - Intellect: Used to determine if a character is intelligent enough to solve a puzzle or riddle.
+ - Armor Score: This reduces the result of the number generated for an attack.
+ - Hit Points: Indicated the amount of damage which a character can take before dying.
+ - Speed: Determines turn order. Highest speed goes first.
+
+
+Abilities:
+Abilities represent your character's specialties. They are abilities which can be used both in and out of combat to help overcome the obstacles you encounter. Abilities have several 
+facets:
+
+ - Name: What the ability is called
+ - Type: There are three types of ailities: Magic, Weapon, and Intellect. This stat determines whether you use the Weapon Skill, Magic Skill, or Intellect for attacks made with the ability.
+ - Damage: This is the amount of damage the attack does. It is usually expressed as a range and the exact amount of damage is determined randomly.
+ - Effects: An ability's effect determines what it does beyond simple damage. It might be a temporary stat change, healing, or even a change to the surroundings.  
+
+To make an attack using an ability, you perform the following steps:
+ 1. Declare the ability and choose a target.
+ 2. The GM randomly generates a number from 1 to 6.
+ 3. The target's Armor Score is subtracted from the number generated.
+ 4. Any special bonuses or penalties are applied to the number.
+ 5. The number is then compared to the Weapon Skill or Magic Skill, depending if the ability is a weapon ability or a magic ability.
+ 6. If the resulting number is greater than the Weapon Skill or Magic Skill, then the attack is successful, otherwise, the attack fails.
+ 7. If the attack succeeds, calculate damage.
+
+
+To make an Intellect Check, perform the following steps:
+ 1. Declare the check, if the check has a target, declare it.
+ 2. The GM randomly generates a number from 1 to 6.
+ 3. Any special bonuses or penalties are applied to the number.
+ 4. The resulting number is compared to the Intellect of the character attempting the check.
+ 5. If the resulting number is greater than the Intellect, then the check is successful, otherwise, the check fails.
+
+Unlike attacks, Intellect checks are not always tied to Abilities. Sometimes, a character will make an Intellect check to determine a lie or recall information.
+
+Character Choices:
+Below is the list of playable classes for players to choose from.
+
+1. Warrior
+	Stats:
+	 - Weapon Skill: +2
+	 - Magic Skill: +7
+	 - Intellect: +5
+	 - Armor Score: 2
+	 - Hit Points: 25
+	 - Speed: 35
+	
+
+	Abilities:
+	 - Name: Blade Flourish
+	   - Type: Weapon
+	   - Damage: 2-6 physical damage
+	   - Effects: If you hit with this attack, you can make one additional attack.
+
+	 - Name: Tackle
+	   - Type: Weapon
+	   - Damage: 1 physical damage
+	   - Effects: If this attack hits, the target cannot act on their next turn.
+
+	 - Name: Shield Allies
+	   - Type: Weapon
+	   - Damage: N/A
+	   - Effects: Until the start of your next turn, your Armor Score increases by 2. Until the start of your next turn, your are the only character enemies can attack.
+	
+
+2. Scout
+	Stats:
+	 - Weapon Skill: +3
+	 - Magic Skill: +6
+	 - Intellect: +2
+	 - Armor Score: 2
+	 - Hit Points: 20
+	 - Speed: 50
+	
+
+	Abilities
+	 - Name: Pick Lock
+	   - Type: Intellect
+	   - Damage: N/A
+	   - Effects: If the intellect check succeeds, the target door is unlocked.
+	
+	 - Name: Feint
+	   - Type: Weapon
+	   - Damage: 1-3 physical damage
+	   - Effects: If this attack hits, until the end of your next turn, all attacks against that target gain a +1 special bonus.
+
+	 - Name: Sneak Attack
+	   - Type: Weapon
+	   - Damage: 1-5 physical damage
+	   - Effects: If this attack hits and has a special bonus, it deals 2 additional physical damage.
+
+	 - Name: Vanish
+	   - Type: Intellect
+	   - Damage: N/A
+	   - Effects: If the intellect check succeeds, attacks cannot target you until the end of your next turn.
+
+
+3. White Mage
+	Stats:
+	 - Weapon Skill: +6
+	 - Magic Skill: +3
+	 - Intellect: +3
+	 - Armor Score: 1
+	 - Hit Points: 20
+	 - Speed: 25
+	
+
+	Abilities
+	 - Name: Heal
+	   - Type: Magic
+	   - Damage: N/A
+	   - Effects: Heal 2-5 Hit Points to target ally. No check is required.
+	
+	 - Name: Purge
+	   - Type: Magic
+	   - Damage: 3-6 fire damage
+	   - Effects: No additional effects
+	
+	 - Name: Holy Flash
+	   - Type: Magic
+	   - Damage: 3 fire damage
+	   - Effects: If this attack hits, it damages all enemies.
+	
+	 - Name: Emergency Rescue
+	   - Type: Magic
+	   - Damage: N/A
+	   - Effects: Make a flat Magic Skill check with no modifiers. If the check is successful, all allies regain 3 Hit Points.
+
+	 - Name: Bless
+	   - Type: Magic
+	   - Damage: N/A
+	   - Effects: Target one ally, they gain a +2 special bonus on all attacks they make until the start of your second turn after this one.
+	
+	
+4. Black Mage
+	Stats:
+	 - Weapon Skill: +7
+	 - Magic Skill: +2
+	 - Intellect: +2
+	 - Armor Score: 0
+	 - Hit Points: 20
+	 - Speed: 30
+	
+
+	Abilities
+	 - Name: Curse
+	   - Type: Magic
+	   - Damage: 4-7 curse damage
+	   - Effects: If this attack hits, generate a random number from 1 to 15. If the number is greater than the target's remaining Hit Points, the target dies instantly
+	
+	 - Name: Mark For Death
+	   - Type: Magic
+	   - Damage: 1-2 curse damage
+	   - Effects: If this attack hits, every time the target is hit by an attack before the start of your next turn, the target takes 2 curse damage, in addition to the attack damage.
+	
+	 - Name: Plague
+	   - Type: Magic
+	   - Damage: 3-6 curse damage
+	   - Effects: If this attack hits, it damages all enemies.
+	
+	 - Name: Blinding Darkness
+	   - Type: Magic
+	   - Damage: N/A
+	   - Effects: Make an attack against all enemies. Each enemy hit takes a -1 penalty to all attacks they make until the start of your next turn.
+	
+
+
+
+========================================================================================================================================================================================
+Monsters
+========================================================================================================================================================================================
+The primary obstacle in the path of players will be monsters. This section lists examples of the monsters players are likely to face on their adventures.
+
+
+1. Gremlin
+ Info: Gremlins are lowly creatures and perfect for simple random encounters. They tend to hunt in packs of 3 or 4, and are often found working as minions to larger threats.
+	Stats:
+	 - Weapon Skill: +4
+	 - Magic Skill: +7
+	 - Intellect: +6
+	 - Armor Score: 1
+	 - Hit Points: 7
+	 - Speed: 31
+	
+
+	Abilities
+	 - Name: Scratch
+	   - Type: Weapon
+	   - Damage: 2-4 physical damage
+	   - Effects: No additional effects.
+	
+
+
+2. Gheist
+ Info: Gheists are strange creatures who take half damage from weapon skills. They tend to wander through dungeons alone. They are slow and miserable creatures.
+	Stats:
+	 - Weapon Skill: +5
+	 - Magic Skill: +4
+	 - Intellect: +2
+	 - Armor Score: 0
+	 - Hit Points: 20
+	 - Speed: 3
+	
+
+	Abilities
+	 - Name: Scrape
+	   - Type: Weapon
+	   - Damage: 1-3 curse damage
+	   - Effects: If this attack hits, the target cannot regain Hit Points until the end of the Gheist's next turn.
+
+	 - Name: Hex
+	   - Type: Magic
+	   - Damage: 2-6 curse damage
+	   - Effects: If this attack hits, generate a random number from 1 to 10. If the number is greater than the target's remaining Hit Points, the target dies instantly
+	
+	
+
+3. Muglore
+ Info: Muglores are cruel and miserable creatures. They like to bully and boss around lesser monsters, and usually have 1-2 Gremlins following them around. They are rarer than most wandering monsters, so encounters with them are not frequent, but they are very dangerous.
+	Stats:
+	 - Weapon Skill: +2
+	 - Magic Skill: +5
+	 - Intellect: +7
+	 - Armor Score: 2
+	 - Hit Points: 25
+	 - Speed: 15
+	
+
+	Abilities
+	 - Name: Bash
+	   - Type: Weapon
+	   - Damage: 4-8 physical damage
+	   - Effects: If this attack hits, the target cannot act on their next turn.
+
+	 - Name: Rally
+	   - Type: Magic
+	   - Damage: N/A
+	   - Effects: Make a flat Magic Skill check with no modifiers. If the check is successful, all attacks made by allies before the start of your next turn get a +1 special bonus.
+	
+	 - Name: Distracting Shout
+	   - Type: Magic 
+	   - Damage: 1-2 sonic damage
+	   - Effects: If this attack hits, the target cannot use Magic abilities until the end of their next turn.
+	
+
+
+
+	
+
+
+
+Here is a template for is you want to create your own Monsters:
+
+Name
+ Info: 
+	Stats:
+	 - Weapon Skill:
+	 - Magic Skill: 
+	 - Intellect: 
+	 - Armor Score: 
+	 - Hit Points: 
+	 - Speed: 
+	
+
+	Abilities
+	 - Name: 
+	   - Type: 
+	   - Damage: 
+	   - Effects: 
+	
+
